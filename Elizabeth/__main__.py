@@ -52,9 +52,9 @@ buttons += [[InlineKeyboardButton(text="🔌ADD ME TO YOUR GROUP ",
                                   url="t.me/ELIZABETHTG_bot?startgroup=true"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="💻SUPPORT",
-                                  url="https://t.me/TG_BotZ"),
-]]
+
+
+
 
 buttons + [[InlineKeyboardButton(text="🔒 CLOSE THE MENU",
                                   callback_data="close_menu")]]
